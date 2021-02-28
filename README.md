@@ -9,8 +9,7 @@ In my day life I'm Head of AI Skunkworks and Deployment at NHSx ([LinkedIn](link
 - 🔭 I’m currently working on my newsletter [**quantum of sollazzo**](http://puntofisso.net/newsletter), which you can sponsor via [GitHub Sponsors](https://github.com/sponsors/puntofisso)
 - ✔️ I was listed in the [2021 DataIQ 100](https://www.dataiq.co.uk/dataiq100-2021/profile/giuseppe-sollazzo-head-of-ai-skunkworks-and-deployment-nhsx)
 - 🌱 I’m currently willing to learn more about game development, mostly for fun
-- 
-- 👯 I’m looking to collaborate on data-driven everything
+- 👯 I’m looking to collaborate on data-driven everything and on tech book writing
 - 💬 Ask me about data
 - 📫 How to reach me: [@puntofisso](http://twitter.com/puntofisso) on Twitter
 - 😄 Pronouns: he/him
