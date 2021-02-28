@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I'm Giuseppe. In my day life I'm Head of AI Skunkworks and Deployment at NHSx. This is my personal profile.
+I'm Giuseppe. In my day life I'm Head of AI Skunkworks and Deployment at NHSx ([LinkedIn](linkedin.com/in/giuseppesollazzo/)). This is my personal profile.
 
+- 🌐 Learn more at my personal website [www.puntofisso.net](http://www.puntofisso.net)
 - 🔭 I’m currently working on my newsletter [**quantum of sollazzo**](http://puntofisso.net/newsletter), which you can sponsor via [GitHub Sponsors](https://github.com/sponsors/puntofisso)
 - 🌱 I’m currently willing to learn more about game development
 - 👯 I’m looking to collaborate on data-driven everything
