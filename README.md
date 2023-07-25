@@ -1,9 +1,7 @@
 ### Hi there 👋
 
 I'm Giuseppe, a data geek based in London.  
-In my day life I'm Head of AI Skunkworks and Deployment at NHSx ([LinkedIn](linkedin.com/in/giuseppesollazzo/)). This is my personal profile.
-
-
+I'm taking a break in between jobs. Most recently, I was Head of AI Skunkworks and Deployment at NHSx ([LinkedIn](linkedin.com/in/giuseppesollazzo/)). This is my personal profile.
 
 - 🌐 Learn more at my personal website [www.puntofisso.net](http://www.puntofisso.net)
 - 🔭 I send a weekly newsletter about all things data, [**quantum of sollazzo**](http://puntofisso.net/newsletter), which you can sponsor via [GitHub Sponsors](https://github.com/sponsors/puntofisso)
